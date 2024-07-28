@@ -1,0 +1,3 @@
+PyQt5
+gTTS
+playsound=1.2.2
